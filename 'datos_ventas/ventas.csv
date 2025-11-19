@@ -1,1 +1,7 @@
+id_venta   fecha               producto      cantidad            total
+  1        2024-01-10        Laptop             1                750
+  2        2024-01-11        Mouse              2                20
+  3        2024-01-15        Teclado            1                15
+  4        2024-02-01        Auriculares        1                25
+  5        2024-02-05        Monitor            1                20
 
